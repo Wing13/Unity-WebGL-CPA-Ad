@@ -1,6 +1,12 @@
 # Unity-WebGL-CPA-Ad
 CPA advertising plugin for Unity3D. You can show interstitial ad in your WebGL and Standalone games using this plugin. This plugin showing ads from ads rotators from CPA networks.
 
+v 1.01
+
++ Firefox support.
+
++ Custom networks support, check code at http://adshelper.herokuapp.com/Scripts/Index.html for reference.
+
 1.Place Assets/Wing13Assets/MegaCoolAds/MGA prefab into your scene.
 
 2.Register in your favorite CPA Ad network and create ad rotator there.
