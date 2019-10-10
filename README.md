@@ -17,7 +17,5 @@ Guaranteed supported networks (Please register using those links to keep the plu
 
 Actionpay - https://actionpay.net/ref:NzI2MzEzOTYyODE4
 
-RunCPA - https://click.runcpa.com/getoffer/49232-e69e29dde1994835bb8ba2f42502a21a-44
-
 Please let me know if you need another networks.
 Please let me know if some another CPA ad network is working well with my plugin.
