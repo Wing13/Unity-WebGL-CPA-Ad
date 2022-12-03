@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<a id = "AdPic">
+ <img id="AdImgPic" src = "" style="width:500px;height:500px;border:0;">
+</a>
+
+<script>
+var imghtml = ["Ads/1R.png"];
+var href = ["https://www.youtube.com/channel/UCMrorUqTRiinaw1b1VUp93Q"];
+
+if (imghtml.length > 0) {
+                         var index = Math.floor((Math.random() * imghtml.length));
+
+   document.getElementById("AdPic").href = href[index];
+   document.getElementById("AdImgPic").src = imghtml[index];
+   }
+
+</script>
+
+</body>
+</html>
