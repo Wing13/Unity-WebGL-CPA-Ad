@@ -9,7 +9,7 @@ v 1.01
 
 + Firefox support.
 
-+ Custom networks support, check code at http://adshelper.herokuapp.com/Scripts/Index.html for reference.
++ Custom networks support.
 
 1.Place Assets/Wing13Assets/MegaCoolAds/MGA prefab into your scene.
 
