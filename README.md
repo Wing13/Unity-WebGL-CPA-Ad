@@ -27,3 +27,7 @@ Actionpay - https://actionpay.net/ref:NzI2MzEzOTYyODE4
 
 Please let me know if you need another networks.
 Please let me know if some another CPA ad network is working well with my plugin.
+
+# Troubleshooting
+In Unity 2022 - "InvalidOperationException: Insecure connection not allowed".
+Solution: Player Settings > Allow downloads over HTTP - Always allowed
