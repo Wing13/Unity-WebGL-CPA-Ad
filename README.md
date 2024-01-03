@@ -15,18 +15,14 @@ v 1.01
 
 + Custom networks support.
 
+# Using
 1.Place Assets/Wing13Assets/MegaCoolAds/MGA prefab into your scene.
 
-2.Register in your favorite CPA Ad network and create ad rotator there.
+2.Register in your favorite CPA Ad network and create ad rotator there OR create a web page with an advertisement image and a link (as shown in the example).
 
-3.Paste your rotator code into 'Rotator code' field of MGA object in the inspector.
+3.Paste your rotator code or web link into 'Rotator code' field of MGA object in the inspector.
 
-Guaranteed supported networks (Please register using those links to keep the plugin free):
-
-Actionpay - https://actionpay.net/ref:NzI2MzEzOTYyODE4
-
-Please let me know if you need another networks.
-Please let me know if some another CPA ad network is working well with my plugin.
+My other Unity assets: https://assetstore.unity.com/publishers/19759
 
 # Troubleshooting
 In Unity 2022 - "InvalidOperationException: Insecure connection not allowed".
