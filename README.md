@@ -1,5 +1,5 @@
 # Unity-WebGL-CPA-Ad
-CPA advertising plugin for Unity3D. You can show interstitial ad in your WebGL and Standalone games using this plugin. This plugin showing ads from ads rotators from CPA networks.
+CPA advertising plugin for Unity3D. You can show interstitial ad in your WebGL and Standalone games using this plugin. This plugin displays advertisements using your URL, see an example. It also supports some advertising CPA networks, so experiment with them.
 
 v 1.03
 
